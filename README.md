@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nourmami
-- 👀 blockchain & security enthusiast 
+- 👀 DevOps & Cloud enthusiast 
 - 🌱 I’m currently preparing for RHCSA 9 
 - 🌱 Azure Data Scientist Associate Az-DP100
 - 💞️ A wanderer at heart
